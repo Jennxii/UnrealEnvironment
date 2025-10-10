@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/MiniGame/BP_CoinActor.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Gold.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/SM_Coin_1.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Silver.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Silver1.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Copper.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/SM_Coin_2.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/SM_Coin_5.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HC/QPEVTFZQZ4EB8SSUTCCXA2.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/MiniGame/Enum_CoinState.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/S_Coin_CollectSound.uasset"
+			]
+		}
+	]
+}
