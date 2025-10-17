@@ -9,13 +9,28 @@
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Gold.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/SM_Coin_1.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Silver.uasset",
-				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Silver1.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Copper.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/SM_Coin_2.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/SM_Coin_5.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HC/QPEVTFZQZ4EB8SSUTCCXA2.uasset",
 				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/MiniGame/Enum_CoinState.uasset",
-				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/S_Coin_CollectSound.uasset"
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Import/S_Coin_CollectSound.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/MiniGame/BP_CoinSpawner.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/MiniGame/BP_CoinActor.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HC/QPEVTFZQZ4EB8SSUTCCXA2.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/4J/AP1KJGK9JYVGUHCBJIKWPS.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/FQ/M71I7IKUJEGK5IGWRNV1K1.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/LO/M52NFCGDELY4DHFBAB1WTW.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/12/WORO67RZ4XA8DZBG7J28GT.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/39/31YU7D5APTFV1GKH4P1WZ5.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/3S/EFPS4RE9CGV1Z3MVPSV1QU.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/60/P5SN9YV6U2A5G38L4J8HH2.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/MV/N3YGBA7ICC1IT5TCO8O52W.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/BH/EOLHBTYUM29OF5Z0GL06EY.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/C4/7PH9Z1ZJKRGKRGF8B3BQV8.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/F7/AV3O2P506048P7UUU291G6.uasset",
+				"C:/Users/fhs49588/Desktop/Unreal/UnrealEnvironment/PabloBlueprints/MiniGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/K1/B3BPIDIQC85I7XZH0740AI.uasset",
+				"Z:/UnrealEnvironment/PabloBlueprints/MiniGame/Content/Materials/M_Silver1.uasset"
 			]
 		}
 	]
